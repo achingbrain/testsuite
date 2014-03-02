@@ -1,14 +1,14 @@
 {
-	"name": "testsuite",
-	"version": "1.0.0",
-	"description": "A simple module to return *Test.js in a given directory.",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/achingbrain/testsuite.git"
-	},
-    "keywords": [
-		"test",
-		"unit"
-	]
+  "name": "testsuite",
+  "version": "1.0.1",
+  "description": "A simple module to return *Test.js in a given directory.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/achingbrain/testsuite.git"
+  },
+  "keywords": [
+    "test",
+    "unit"
+  ]
 }
