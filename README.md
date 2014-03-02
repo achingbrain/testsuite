@@ -24,7 +24,8 @@ my_project
 
 ## Usage
 
-Create a file `suite.js` under `test` that contains:
+1. Add to the `devDependencies` section of your `package.json` file and run `npm install`.
+2. Create a file `suite.js` under `test` that contains:
 
 ```javascript
 module.exports = require("testsuite")(__dirname);
