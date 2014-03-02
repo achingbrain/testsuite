@@ -19,7 +19,7 @@ Let's say your project has the following structure:
       - AnotherModuleTest.js
 ```
 
-[nodeunit](http://github.com/caolan/nodeunit) won't recurse through the directory to find your tests [1].  How dull.  Instead you need an aggregator file to manually pull in your tests, the maintenance of which is tedious.
+[nodeunit](http://github.com/caolan/nodeunit) won't recurse through the directory to find your tests[^1].  How dull.  Instead you need an aggregator file to manually pull in your tests, the maintenance of which is tedious.
 
 ## Usage
 
@@ -39,4 +39,4 @@ $ nodeunit test/suite.js
 
 That's all there is to it.
 
-[1] There's [this](https://github.com/caolan/nodeunit/pull/54) but I don't think it's getting merged any time soon.
+[^1] There's [this](https://github.com/caolan/nodeunit/pull/54) but I don't think it's getting merged any time soon.
