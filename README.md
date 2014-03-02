@@ -26,7 +26,7 @@ my_project
 
 Create a file `suite.js` under `test` that contains:
 
-```
+```javascript
 module.exports = require("testsuite")(__dirname);
 ```
 
