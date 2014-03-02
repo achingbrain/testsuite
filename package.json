@@ -1,6 +1,6 @@
 {
 	"name": "testsuite",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "A simple module to return *Test.js in a given directory.",
 	"main": "index.js",
 	"repository": {
